@@ -1,1 +1,0 @@
-Python task for week 1
